@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3e7d545-44aa-4068-ae34-7f09e34264ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/disney-server.py" afterPath="$PROJECT_DIR$/disney-server.py" />
-    </list>
+    <list default="true" id="f3e7d545-44aa-4068-ae34-7f09e34264ce" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -689,12 +686,12 @@
       <workItem from="1511330491337" duration="6357000" />
       <workItem from="1511944538220" duration="153000" />
       <workItem from="1511944713837" duration="5116000" />
-      <workItem from="1512016009550" duration="2083000" />
+      <workItem from="1512016009550" duration="2140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20113000" />
+    <option name="totallyTimeSpent" value="20170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
